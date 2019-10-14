@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+## NEW ROW
+
 # Log file
 *.log
 
